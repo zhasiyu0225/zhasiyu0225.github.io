@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a master's student of Human-Computer Interaction at the Future Lab in Tsinghua University, advised by [Prof. Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm). With an interdisciplinary background in both engineering and art design, I'm pursuing research in the field of human-computer interaction, particularly in tangible interaction (e.g. Interactive Smart Makeup Mirror) and computational aesthetics (Music-syncronized Smart Lighting System).
+I'm a master's student of Human-Computer Interaction at the Future Lab in Tsinghua University, advised by [Prof. Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm). With an interdisciplinary background in both engineering and art design, I'm pursuing research in the field of human-computer interaction, particularly in tangible interaction (e.g. Interactive Smart Makeup Mirror) and computational aesthetics (e.g. Music-syncronized Smart Lighting System).
 
 
 {style="text-align: justify;"}
