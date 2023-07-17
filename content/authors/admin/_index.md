@@ -26,16 +26,17 @@ bio: My research interests in human-computer interaction.
 
 # Interests to show in About widget
 interests:
-  - Human-computer Interaction
+  - Tangible Interaction
+  - Computational Aesthetics
   - Large Language Models
 
 # Education to show in About widget
 education:
   courses:
-    - course: Master in Information Art & Design
+    - course: MA in Information Art and Design
       institution: Tsinghua University
       year: 2022-2025
-    - course: BEng in Creative Design and Intelligent Engineering
+    - course: BEng in Automation Engineering & BA in Industrial Design
       institution: Tsinghua University
       year: 2017-2022
 
@@ -46,22 +47,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:l-yj22@mails.tsinghua.edu.cn
+#    link: '/#contact'
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/yujia-l
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -76,5 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a master's student of Human-Computer Interaction at the Future Lab in Tsinghua University, advised by [Prof. Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm). With an interdisciplinary background in both engineering and art design, I'm pursuing research in the field of human-computer interaction, particularly in tangible interaction (e.g. Interactive Smart Makeup Mirror) and computational aesthetics (Music-syncronized Smart Lighting System).
+
+
 {style="text-align: justify;"}
