@@ -1,5 +1,5 @@
 ---
-title: '3D-Mirrorcle: Innovating Glasses-free 3D Perception and AR Alignment in Smart Mirrors'
+title: '3D-Mirrorcle':' Innovating Glasses-free 3D Perception and AR Alignment in Smart Mirrors'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
