@@ -1,4 +1,4 @@
----
+----
 title: '3D-Mirrorcle: Innovating Glasses-free 3D Perception and AR Alignment in Smart Mirrors'
 
 # Authors
