@@ -6,18 +6,21 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Qi Xin
+  - Chenzhuo Xiang
+  - Yu Zhang
+  - Yingqing Xu
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-12-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,12 +32,12 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Mirrors are ubiquitous in our daily lives. As technology advances in the recent decade, smart mirrors that combine reflective surfaces with screens have emerged to enhance people's interaction with mirrors. However, this approach engenders a problem of depth incongruity, obstructing the simultaneous perception of one’s 3D reflection in the mirror and the 2D display on the screen, significantly impairing the user experience of smart mirrors. To address this depth disparity and achieve seamless mirror-based augmented reality (AR) with better integration of screen content and mirror imaging, we present an innovative system named 3D-Mirrorcle. Our system utilizes a cylindrical grating between the screen and the half-mirror. Together with real-time eye tracking and image alignment algorithms to match the disparity between the left and right views with that of both eyes, our system achieves two major breakthroughs: glasses-free 3D display and mirror-AR alignment. To validate the effectiveness of 3D-Mirrorcle, we implemented a prototype that projects AR contours onto the user's face. 36 participants were invited to engage in a hands-on trial and provide feedback through interviews. The findings from our user study highlight that our system outperforms various other mirror AR technologies in terms of usability, immersion, and satisfaction. These encouraging results underscore the immense potential of our method as a pivotal technology in truly bringing AR to life.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Augmented reality, mirror, 3D visualization, depth mismatch]
 
 # Display this page in the Featured widget?
 featured: true
