@@ -23,7 +23,7 @@ My academic journey began with undergraduate degrees in Automation Engineering a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to UIST 2024</div><img src='images/proj/mirror.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to UIST 2024</div><img src='images/proj/mirrorcle.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://arxiv.org/pdf/2310.13617.pdf)
@@ -34,7 +34,7 @@ My academic journey began with undergraduate degrees in Automation Engineering a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://arxiv.org/pdf/2309.16639.pdf)
@@ -55,7 +55,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Adaptive Music and Lighting Systems for Emotional Well-being**
