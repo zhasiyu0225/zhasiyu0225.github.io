@@ -57,7 +57,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music_light.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music_light.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Adaptive Music and Lighting Systems for Emotional Well-being**
