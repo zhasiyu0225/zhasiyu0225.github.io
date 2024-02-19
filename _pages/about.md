@@ -34,13 +34,20 @@ My academic journey began with undergraduate degrees in Automation Engineering a
 
 **Yujia Liu**, Qi Xin, Chenzhuo Xiang, Yu Zhang, Yingqing Xu.
 - In submission to the ACM Symposium on User Interface Software and Technology (UIST), 2024.
-- TLDR: An innovative smart mirror system integrating AR with real-world reflections, addressing depth disparity via a lenticular grating setup, with real-time image adjustment and position adaptation algorithms to align AR content with the user's depth perception and enhance interaction realism. Demonstrated through a makeup application prototype with significant improvements in accuracy (11.1% ↑), task completion time (47.9% ↓), and user satisfaction (44.4% ↑) compared to the existing systems. 
+- TLDR: An innovative smart mirror system integrating AR with real-world reflections, addressing depth disparity via a lenticular grating setup, with real-time image adjustment and position adaptation algorithms to align AR content with the user's depth perception and enhance interaction realism. Demonstrated through a makeup application prototype with significant improvements in accuracy (11.1% ↑), task completion time (47.9% ↓), and user satisfaction (44.4% ↑) compared to the existing systems.
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://arxiv.org/pdf/2309.16639.pdf)
 
 Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wang, Zhi Zheng, Li Chen, Qi-aolei Jiang, Xuhai Xu, Yuanchun Shi.
 - To appear in the 2024 CHI Conference on Human Factors in Computing Systems (CHI), 2024.
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
+</div>
+</div>
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
