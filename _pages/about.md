@@ -21,6 +21,8 @@ I'm Yujia Liu, an HCI student researcher passionate about Human-AI Interaction a
 
 My academic journey began with undergraduate degrees in Automation Engineering and Industrial Design, laying a dual foundation that marries technical precision with aesthetic innovation. My work embodies this cross-disciplinary fusion, particularly evident in projects ranging from AR-enhanced smart mirrors, LLM-based digital well-being management, to 3D LEGO design generations. Each project reflects my commitment to leveraging a blend of engineering precision and design sensitivity, aiming to create technologies that are not only efficient and functional but also accessible and engaging for users.
 
+I'm now looking for 2024 summer research opportunities. A complete version of my CV is available [HERE](https://yujia-l.github.io/cv.pdf).
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to UIST 2024</div><img src='images/proj/mirrorcle.jpg' alt="sym" width="100%"></div></div>
@@ -55,7 +57,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music_light.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Adaptive Music and Lighting Systems for Emotional Well-being**
@@ -63,7 +65,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/smart_editing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Automated Video Editing with Semantic Analysis and Aesthetic Evaluation**
@@ -74,7 +76,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/phone_color.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Comprehensive Study of Color Preferences Across Diverse Displays**
+**Adaptive Image Color Enhancement Across Diverse Displays**
 - TLDR: Collected color preferences in digital media via a comprehensive user survey with 89 participants and an expert interview with 24 photographers to identify color preferences across image types & user demographics. Developed a system based on DeepLPF for adaptive image color enhancement under mobile photography scenar-ios, significantly enhanced user satisfaction (12% ↑) in an offline evaluation with 89 participants.
 </div>
 </div>
