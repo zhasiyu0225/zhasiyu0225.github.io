@@ -21,10 +21,6 @@ I'm Yujia Liu, an HCI student researcher passionate about Human-AI Interaction a
 
 My academic journey began with undergraduate degrees in Automation Engineering and Industrial Design, laying a dual foundation that marries technical precision with aesthetic innovation. My work embodies this cross-disciplinary fusion, particularly evident in projects ranging from AR-enhanced smart mirrors, LLM-based digital well-being management, to 3D LEGO design generations. Each project reflects my commitment to leveraging a blend of engineering precision and design sensitivity, aiming to create technologies that are not only efficient and functional but also accessible and engaging for users.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -48,14 +44,6 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 - TLDR: A mobile application that leverages LLMs for generating dynamic, personalized persuasive content to mitigate problematic smartphone use for digital well-being. Effectiveness validated via a 5-week field trial with 25 participants, showing significant improvements in intervention acceptance (17.8-22.5% ↑) and reductions in smartphone usage frequency (12.1-14.4% ↓).
 </div>
 </div>
-
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations
 - *2022.09 - Now*, Tsinghua University, M.A. in Information Art and Design.
