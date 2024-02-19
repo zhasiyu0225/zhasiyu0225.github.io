@@ -23,7 +23,7 @@ My academic journey began with undergraduate degrees in Automation Engineering a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to UIST 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to UIST 2024</div><img src='images/proj/mirror.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems](https://arxiv.org/pdf/2310.13617.pdf)
@@ -45,10 +45,9 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 </div>
 </div>
 
-<span class='anchor' id='projects'></span>
 # 🗂️ Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/lego.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **3D LEGO Designs Generation and Structural Optimization with Generative Models**
