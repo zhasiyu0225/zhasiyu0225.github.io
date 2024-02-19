@@ -26,9 +26,10 @@ bio: My research interests in human-computer interaction.
 
 # Interests to show in About widget
 interests:
-  - Tangible Interaction
-  - Computational Aesthetics
-  - Large Language Models
+  - Human-AI Interaction
+  - Augmented Interaction
+  - Affective Computing
+  - Aesthetics Computing
 
 # Education to show in About widget
 education:
