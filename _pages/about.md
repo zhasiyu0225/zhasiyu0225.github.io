@@ -55,7 +55,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 <div class='paper-box-text' markdown="1">
 
 **3D LEGO Designs Generation and Structural Optimization with Generative Models**
-- TLDR: A 3D model generation system combining generative models, stability prediction, and optimization to repurpose unused LEGO bricks, fostering creativity and sustainability. Achieved up to a 30% increase in user engagement, a 40% increase in design diversity, and a 35% improvement in user satisfaction, demonstrating significant advances in interactive design and sustainability.
+- TLDR: A 3D model generation system combining generative models, stability prediction, and optimization to repurpose unused LEGO bricks, fostering creativity and sustainability. Achieved up to a 42.7% increase in design diversity, a 13.9% increase in user engagement, and a 6.9% improvement in user satisfaction, demonstrating significant advances in interactive design and sustainability.
 </div>
 </div>
 
@@ -63,7 +63,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 <div class='paper-box-text' markdown="1">
 
 **Adaptive Music and Lighting Systems for Emotional Well-being**
-- TLDR: A smart home system that dynamically adjusts music and lighting to nurture inhabitants' emotional well-being, leveraging environmental and color psychology with MER. Capable of responding to and anticipating user emotions and preferences, with a 30% enhancement in well-being and a 25% increase in satisfaction according to a user experience study.
+- TLDR: A smart home system that dynamically adjusts music and lighting to nurture inhabitants' emotional well-being, leveraging environmental and color psychology with MER. Capable of responding to and anticipating user emotions and preferences, with a 22.1% enhancement in satisfaction according to a user experience study.
 </div>
 </div>
 
@@ -71,7 +71,7 @@ Ruolan Wu, Chun Yu, Xiaole Pan, **Yujia Liu**, Ningning Zhang, Yue Fu, Yuhan Wan
 <div class='paper-box-text' markdown="1">
 
 **Automated Video Editing with Semantic Analysis and Aesthetic Evaluation**
-- TLDR: An intelligent video editing framework that integrates video semantic analysis and aesthetic evaluation to com-bine AI with user-centered designs for automating video production tasks. Achieved a 40% reduction in editing time and a 25% increase in viewer engagement, demonstrating the frame-work's effectiveness in improving editing efficiency and output quality.
+- TLDR: An intelligent video editing framework that integrates video semantic analysis and aesthetic evaluation to com-bine AI with user-centered designs for automating video production tasks. Achieved a 62.5% reduction in editing time, demonstrating the frame-work's effectiveness in improving editing efficiency and output quality.
 </div>
 </div>
 
