@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siyu's Homepage"
-description              : "HCI researcher with interdisciplinary background in engineering & design."
+description              : "HCI researcher with interdisciplinary background in Human-AI Collaboration&Creative Learning."
 repository               : "zhasiyu0225.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yujia Liu 刘雨佳"
+  name             : "Siyu Zha 查思雨"
   avatar           : "images/profile.jpg"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "l-yj22@mails.tsinghua.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=qQ1UYDAAAAAJ&hl=en&oi=ao"
+  email            : "zhasiyu@mails.tsinghua.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Siyu-Zha-2/research"
   uri              :
   bitbucket        :
   codepen          :
