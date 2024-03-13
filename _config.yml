@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yujia's Homepage"
+title                    : "Siyu's Homepage"
 description              : "HCI researcher with interdisciplinary background in engineering & design."
-repository               : "yujia-l/yujia-l.github.io"
+repository               : "zhasiyu0225.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  LinkedIn         : "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
