@@ -27,9 +27,9 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=qQ1UYDAAAAAJ&hl=en&oi=ao"
+  googlescholar    :  # e.g., "https://scholar.google.com/citations?user=qQ1UYDAAAAAJ&hl=en&oi=ao"
   email            : "zhasiyu@mails.tsinghua.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Siyu-Zha-2/research"
+  researchgate     : # e.g.,  "https://www.researchgate.net/profile/Siyu-Zha-2/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # e.g., "github username" zhasiyu0225
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "linkedin username"
+  LinkedIn         : "linkedin username" https://www.linkedin.com/in/siyu-zha-521213264/
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
