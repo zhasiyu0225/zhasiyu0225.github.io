@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yujia Liu, an HCI student researcher passionate about Human-AI Interaction and Affective Computing. Currently, I'm pursuing my M.A. in Information Art and Design at the Future Lab of Tsinghua University, under the advisory of Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). 
+I'm Siyu Zha, an HCI student researcher passionate about Human-AI Interaction and Affective Computing. Currently, I'm pursuing my M.A. in Information Art and Design at the Future Lab of Tsinghua University, under the advisory of Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm) and Prof. [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/). 
 
 My academic journey began with undergraduate degrees in Automation Engineering and Industrial Design, laying a dual foundation that marries technical precision with aesthetic innovation. My work embodies this cross-disciplinary fusion, particularly evident in projects ranging from AR-enhanced smart mirrors, LLM-based digital well-being management, to 3D LEGO design generations. Each project reflects my commitment to leveraging a blend of engineering precision and design sensitivity, aiming to create technologies that are not only efficient and functional but also accessible and engaging for users.
 
