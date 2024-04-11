@@ -21,8 +21,6 @@ I'm Siyu Zha, an HCI student researcher passionate about Human-AI Collaboration 
 
 My academic journey began with Educational Technology as an undergraduate and Science and Technology Education as a postgraduate, focusing on exploring how technology can better empower learning and education, and cultivating creative lifelong learners through innovative interdisciplinary content.
 She has designed and participated in the LEGO Foundation's COVID-19 Project-Playful Learning Online, the Lifelong Learning Lab's Project X teaching research project, Stanford University's D.school ME310 design thinking course project, Apple's My Coach Forum19 teacher training project, Haidian District Institute's Swift Playgrounds teacher training project, Sony KOOV Science and Innovation Curriculum Design Project, etc.
-undergraduate degrees in Automation Engineering and Industrial Design, laying a dual foundation that marries technical precision with aesthetic innovation. My work embodies this cross-disciplinary fusion, particularly evident in projects ranging from AR-enhanced smart mirrors, LLM-based digital well-being management, to 3D LEGO design generations. Each project reflects my commitment to leveraging a blend of engineering precision and design sensitivity, aiming to create technologies that are not only efficient and functional but also accessible and engaging for users. 
-
 I'm now looking for 2024 summer research opportunities. A complete version of my CV is available [HERE](https://yujia-l.github.io/cv.pdf).
 
 # 📝 Publications 
