@@ -21,6 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
+  name             : "Siyu Zha 查思雨"
   avatar           : "images/siyu profile.jpg"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
@@ -42,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "linkedin username" https://www.linkedin.com/in/siyu-zha-521213264/
+  LinkedIn         : "https://www.linkedin.com/in/siyu-zha-521213264/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
