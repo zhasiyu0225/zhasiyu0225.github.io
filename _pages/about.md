@@ -20,8 +20,7 @@ redirect_from:
 I'm Siyu Zha, an HCI student researcher passionate about Human-AI Collaboration and Creative Learning. Currently, I'm pursuing my PhD in Information Art and Design at the Future Lab of Tsinghua University, under the advisory of Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm) and now exchange in University of Toronto, under the advisory of Prof. [Jia Xue](https://aij.utoronto.ca/team/dr-jia-xue.html). 
 
 My academic journey began with Educational Technology as an undergraduate and Science and Technology Education as a postgraduate, focusing on exploring how technology can better empower learning and education, and cultivating creative lifelong learners through innovative interdisciplinary content.
-She has designed and participated in the LEGO Foundation's COVID-19 Project-Playful Learning Online, the Lifelong Learning Lab's Project X teaching research project, Stanford University's D.school ME310 design thinking course project, Apple's My Coach Forum19 teacher training project, Haidian District Institute's Swift Playgrounds teacher training project, Sony KOOV Science and Innovation Curriculum Design Project, etc.
-I'm now looking for 2024 summer research opportunities. A complete version of my CV is available [HERE](https://yujia-l.github.io/cv.pdf).
+She has designed and participated in the LEGO Foundation's COVID-19 Project-Playful Learning Online, the Lifelong Learning Lab's Project X teaching research project, Stanford University's D.school ME310 design thinking course project, Apple's My Coach Forum19 teacher training project, Haidian District Institute's Swift Playgrounds teacher training project, Sony KOOV Science and Innovation Curriculum Design Project, etc. I'm now looking for 2024 summer research opportunities. 
 
 # 📝 Publications 
 
