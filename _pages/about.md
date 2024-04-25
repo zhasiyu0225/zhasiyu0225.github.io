@@ -24,7 +24,7 @@ She has designed and participated in the LEGO Foundation's COVID-19 Project-Play
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to IJHCS 2024</div><img src='images/proj/mirrorcle.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to IJHCS 2024</div><img src='images/proj/LLM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning](https://arxiv.org/pdf/2403.16159.pdf)
@@ -35,7 +35,7 @@ She has designed and participated in the LEGO Foundation's COVID-19 Project-Play
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2023</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IASDR 2023</div><img src='images/proj/IASDR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Collaborative catalysts: a framework for creative interdisciplinary design workshop](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=1237&context=iasdr)
@@ -47,7 +47,7 @@ She has designed and participated in the LEGO Foundation's COVID-19 Project-Play
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2021</div><img src='images/proj/mindshift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2021</div><img src='images/proj/Holoboard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [HoloBoard: a Large-format Immersive Teaching Board based on pseudo HoloGraphics]([https://dl.acm.org/doi/abs/10.1145/3472749.3474761])
@@ -61,7 +61,7 @@ Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Fen
 
 # 🗂️ Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/lego.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/toys.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Innovative Learning Toy Design**
@@ -69,7 +69,7 @@ Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Fen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/music_light.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/COLP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Emergency COVID-19 Project of LEGO Foundation**
@@ -77,7 +77,7 @@ Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Fen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/smart_editing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Project X.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Project X of Lab for Lifelong Learning**
@@ -85,7 +85,7 @@ Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Fen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/phone_color.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Teamo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ME310 Project in Stanford University**
@@ -98,11 +98,6 @@ Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Fen
 - *2022.09 - Now*, Tsinghua University, Ph.D. in Information Art and Design.
 - *2019.09 - 2022.08*, Tsinghua University, Research Specialist in Lab for Lifelong Learning.
 - *2017.09 - 2019.07*, Beijing Normal University, M.A. in Science and Technology Education.
-
-%%# 💻 Internships
-%%- *2022.10 - Now*, Research Assistant @ Tsinghua University Pervasive Interaction Laboratory.
-%%- *2021.07 - 2021.10*, Product Manager Intern @ Huawei, ID/UX Design Group, Cyberverse Product Line.
-%%- *2020.06 - 2020.08*, Algorithm Engineer Intern @ Beijing Ewaybot Technology, Robot Navigation Group.
 
 # 📚 Publications & Patents
 - **Zha, S.**, Qiao, Y., Hu, Q., Li, Z., Gong, J., & Xu, Y. (2024). Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning. arXiv preprint arXiv:2403.16159.
