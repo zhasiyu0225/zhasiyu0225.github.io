@@ -80,16 +80,17 @@ Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Fen
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Project X.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Project X of Lab for Lifelong Learning**
-- TLDR: Was responsible for the design and implementation, of the developed Scratch and LEGO robotics curriculum Completed and presented two peer-reviewed papers at international conferences.
+
+**ME310 Project in Stanford University**
+- TLDR: Participated in a 9-month design thinking project in collaboration with D.School. Explored how AI can assist in children's collaborative learning.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Teamo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ME310 Project in Stanford University**
-- TLDR: Participated in a 9-month design thinking project in collaboration with D.School. Explored how AI can assist in children's collaborative learning.
+**Project X of Lab for Lifelong Learning**
+- TLDR: Was responsible for the design and implementation, of the developed Scratch and LEGO robotics curriculum Completed and presented two peer-reviewed papers at international conferences.
 </div>
 </div>
 
