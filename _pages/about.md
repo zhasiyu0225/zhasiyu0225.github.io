@@ -43,7 +43,7 @@ She has designed and participated in the LEGO Foundation's COVID-19 Project-Play
 **Siyu Zha**, Di Zhao*, Meng Li, Wei Gong, Qingyu Hu, Zhongsheng Li
 - To appear in the International Association of Societies of Design Research (IASDR),2023.
 - TLDR: This study first reviews existing frameworks and the educational factors that affect creativity and productivity; then, it constructs a framework for organizing interdisciplinary workshops to leverage collective creativity through the theme of multi-modal book design for children. Qualitative empirical data was collected and analyzed in accordance with the framework. Finally, we present principles and elements for consideration when conducting an interdisciplinary approach to design experience that fosters creative collaboration by combining inductive and deductive approaches.
-- 
+  
 </div>
 </div>
 
@@ -55,7 +55,7 @@ She has designed and participated in the LEGO Foundation's COVID-19 Project-Play
 Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Feng Tian,  Qianying Wang, Yong Rui
 - To appear in the ACM Symposium on User Interface Software and Technology (UIST),2021.
 - TLDR: HoloBoard, an interactive large-format pseduo-holographic display system for lecture based classes. With its unique properties of immersive visual display and transparent screen, we designed and implemented a rich set of novel interaction techniques like immersive presentation, role-play, and lecturing behind the scenes that are potentially valuable for lecturing in class.
-- 
+  
 </div>
 </div>
 
