@@ -25,7 +25,7 @@ I’ve contributed to a range of projects in the fields of AI in education, STEA
 
 🔍 I’m actively seeking postdoctoral opportunities, research collaborations, or other academic/industry roles related to HCI, AI & Education, or Creativity Support Tools.
 
-📬 If you're working on something exciting in these areas, I’d love to connect!
+📬 If you're working on something exciting in these areas, I’d love to connect! Email: zhasiyu1@gmail.com
 
 # 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/proj/mentigo.png' alt="sym" width="100%"></div></div>
