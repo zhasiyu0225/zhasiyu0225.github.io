@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-0507 I’m Siyu Zha, an HCI researcher in Human-Computer Interaction, passionate about Human-AI collaboration and creative learning design. I’m currently pursuing my Ph.D. in Information Art & Design at Tsinghua University, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm), and am a visiting Ph.D. researcher at the University of Toronto, working with Prof. [Jia Xue](https://aij.utoronto.ca/team/dr-jia-xue.html).
+I’m Siyu Zha, an HCI researcher in Human-Computer Interaction, passionate about Human-AI collaboration and creative learning design. I’m currently pursuing my Ph.D. in Information Art & Design at Tsinghua University, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm), and am a visiting Ph.D. researcher at the University of Toronto, working with Prof. [Jia Xue](https://aij.utoronto.ca/team/dr-jia-xue.html).
 
 With a background in Educational Technology and STEM Education, my research explores how emerging technologies—especially AI—can empower learning experiences, support collaborative creativity, and foster lifelong learning through innovative, interdisciplinary design.
 
