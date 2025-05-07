@@ -21,17 +21,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name            : "Siyu Zha"
-  avatar          : "images/siyu profile.jpg"
-  bio             : "Tsinghua University"
-  location        : "Beijing, China"
-  Employer        :
-  Pubmed          : 
-  googlescholar   : "https://scholar.google.com/citations?user=qQ1UYDAAAAAJ&hl=zh-CN&oi=ao"
-  email           : "zhasiyu1@gmail.com"zhasiyu1@gmail.com
+  name             : "Siyu Zha 查思雨"
+  avatar           : "images/siyu profile.jpg"
+  bio              : "Tsinghua University"
+  location         : "Beijing, China"
+  employer         :
+  pubmed           : 
+  googlescholar    :  # e.g., "https://scholar.google.com/citations?user=qQ1UYDAAAAAJ&hl=en&oi=ao"
+  email            : "zhasiyu@mails.tsinghua.edu.cn"
   researchgate     : # e.g.,  "https://www.researchgate.net/profile/Siyu-Zha-2/research"
-  Uri             :
-  Bitbucket       :
+  uri              :
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
