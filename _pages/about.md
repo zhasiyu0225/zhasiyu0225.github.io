@@ -17,21 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Siyu Zha, an HCI researcher in Human-Computer Interaction, passionate about Human-AI collaboration and creative learning design. I’m currently pursuing my Ph.D. in Information Art & Design at Tsinghua University, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm), and am a visiting Ph.D. researcher at the University of Toronto, working with Prof. [Jia Xue](https://aij.utoronto.ca/team/dr-jia-xue.html).
+Hi, I’m Siyu Zha — a researcher in Human-Computer Interaction, passionate about Human-AI collaboration and multimodal learning. I’m a third-year Ph.D. student in Information Art & Design at Tsinghua University, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm). From 2023 to 2024, I was a visiting Ph.D. researcher at the University of Toronto’s Faculty of Information, where I worked with  Prof. [Jia Xue](https://aij.utoronto.ca/team/dr-jia-xue.html). on AI-driven approaches to education and learning design.
 
-With a background in Educational Technology and STEM Education, my research explores how emerging technologies—especially AI—can empower learning experiences, support collaborative creativity, and foster lifelong learning through innovative, interdisciplinary design.
+My research investigates how emerging technologies—particularly AI—can support multimodal and collaborative learning, enhance learner engagement, and promote lifelong development through interdisciplinary, learner-centered design. I hold a Master’s degree in Science and Technology Education from Beijing Normal University, and previously worked as a Research Specialist at Tsinghua’s Lab for Lifelong Learning (2019–2022), where I contributed to research on learning sciences and educational technology.
 
-I’ve contributed to a range of projects in the fields of AI in education, STEAM curriculum design, and future learning environments, including the LEGO Foundation’s Playful Learning Online Project, Tsinghua’s Project X, and the Stanford ME310 Future Education Project. Currently, I’m investigating how intelligent agents can scaffold creative problem-solving and support child-centered, AI-augmented learning.
-
-🔍 I’m actively seeking postdoctoral opportunities, research collaborations, or other academic/industry roles related to HCI, AI & Education, or Creativity Support Tools.
-
-📬 If you're working on something exciting in these areas, I’d love to connect! Email: zhasiyu1@gmail.com
+Over the years, I’ve participated in a number of interdisciplinary projects, including the LEGO Foundation’s Playful Learning Online Project, Tsinghua’s Project X, and Stanford’s ME310 Future Education Program. Currently, I’m exploring how intelligent agents can scaffold creative problem-solving and empower child-centered, AI-augmented learning environments. I’m actively seeking postdoctoral opportunities, research collaborations, and academic or industry roles in HCI, AI & Education, or Learning Technologies. Feel free to reach out: zhasiyu1@gmail.com
 
 # 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/proj/mentigo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://arxiv.org/pdf/2409.14228)
+[Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process](https://dl.acm.org/doi/pdf/10.1145/3706598.3713952)
 
 **Siyu Zha**, Yujia Liu*, Chengbo Zheng, Jiaqi Xu, Fuze Yu, Jiangtao Gong*, Yingqing Xu
 - To appear in the CHI Conference on Human Factors in Computing Systems (CHI '25)
@@ -43,7 +39,7 @@ to inform Mentigo‘s dynamic mentoring framework powered by large language mode
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/proj/bricksmart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BrickSmart: Leveraging Generative AI to Support Children’s Spatial Language Learning in Family Block Play](https://arxiv.org/pdf/2504.11138)
+[BrickSmart: Leveraging Generative AI to Support Children’s Spatial Language Learning in Family Block Play](https://dl.acm.org/doi/pdf/10.1145/3706598.3714212)
 
 Yujia Liu*, **Siyu Zha***, Yuewen Zhang, Yanjin Wang, Yangming Zhang, Qi Xin, Lunyiu Nie, Chao Zhang, Yingqing Xu
 - To appear in the CHI Conference on Human Factors in Computing Systems (CHI'25) (🏆 BEST PAPER HONORABLE MENTION)
@@ -55,7 +51,7 @@ reasoning and mathematical skills, yet parents often lack the expertise to guide
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/proj/vrchat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generative AI in Virtual Reality Communities: A Preliminary Analysis of the VRChat Discord Community]([https://arxiv.org/pdf/2403.16159.pdf](https://www.researchgate.net/profile/Jie-Cai-22/publication/389359262_Generative_AI_in_Virtual_Reality_Communities_A_Preliminary_Analysis_of_the_VRChat_Discord_Community/links/67bfe68f207c0c20fa98863f/Generative-AI-in-Virtual-Reality-Communities-A-Preliminary-Analysis-of-the-VRChat-Discord-Community.pdf))
+[Generative AI in Virtual Reality Communities: A Preliminary Analysis of the VRChat Discord Community](https://dl.acm.org/doi/pdf/10.1145/3706599.3720120)
 
 He Zhang, **Siyu Zha**, Jie Cai*, Donghee Yvette Wohn, John M. Carroll
 - To appear in the CHI Conference on Human Factors in Computing Systems (CHI'25)
@@ -63,7 +59,7 @@ He Zhang, **Siyu Zha**, Jie Cai*, Donghee Yvette Wohn, John M. Carroll
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI 2025</div><img src='images/proj/online.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Accepted by IJHCI</div><img src='images/proj/online.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [COLP: Scaffolding Children’s Online Long-term Collaborative Learning](https://arxiv.org/pdf/2502.03226)
@@ -74,7 +70,7 @@ He Zhang, **Siyu Zha**, Jie Cai*, Donghee Yvette Wohn, John M. Carroll
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to IJHCS 2024</div><img src='images/proj/LLM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission to IJHCS</div><img src='images/proj/LLM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning](https://arxiv.org/pdf/2403.16159.pdf)
@@ -104,7 +100,7 @@ He Zhang, **Siyu Zha**, Jie Cai*, Donghee Yvette Wohn, John M. Carroll
 
 Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Feng Tian,  Qianying Wang, Yong Rui
 - To appear in the ACM Symposium on User Interface Software and Technology (UIST’21).
-- HoloBoard, an interactive large-format pseudo-holographic display system for lecture-based classes. With its unique properties of immersive visual display and transparent screen, we designed and implemented a rich set of novel interaction techniques like immersive presentation, role-play, and lecturing behind the scenes that are potentially valuable for lecturing in class.
+- In this paper, we present HoloBoard, an interactive large-format pseduo-holographic display system for lecture based classes. With its unique properties of immersive visual display and transparent screen, we designed and implemented a rich set of novel interaction techniques like immersive presentation, role-play, and lecturing behind the scene that are potentially valuable for lecturing in class. We conducted a controlled experimental study to compare a HoloBoard class with a normal class through measuring students’ learning outcomes and three dimensions of engagement (i.e., behavioral, emotional, and cognitive engagement). We used pre-/post- knowledge tests and multimodal learning analytics to measure students’ learning outcomes and learning experiences. Results indicated that the lecture-based class utilizing HoloBoard lead to slightly better learning outcomes and a significantly higher level of student engagement. Given the results, we discussed the impact of HoloBoard as an immersive media in the classroom setting and suggest several design implications for deploying HoloBoard in immersive teaching practices.
   
 </div>
 </div>
@@ -127,30 +123,24 @@ Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Fen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Project X.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**ME310 Project in Stanford University**
-- Participated in a 9-month design thinking project in collaboration with D.School. Explored how AI can assist in children's collaborative learning.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Teamo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
+**ME310 Project at Stanford University**
+- Worked on the theme of "Future Education" through the design thinking process (needs analysis, ideation, prototyping, testing), leading to the creation of an AI Tutor prototype to explore new paths for AI-assisted collaborative learning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proj/Project X.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Project X of Lab for Lifelong Learning**
-- Responsible for the design and implementation of the developed Scratch and LEGO robotics curriculum Completed and presented two peer-reviewed papers at international conferences.
+- Responsible for designing and implementing the developed Scratch and LEGO robotics curriculum. Completed and presented two peer-reviewed papers at international conferences.
 </div>
 </div>
 
-# 📖 Educations & Work Experience
-- *2022.09 - Now*, Tsinghua University, Ph.D. in Information Art and Design.
-- *2023.09 - 2024.12*, University of Toronto, Ph.D. Exchange in the Faculty of Information.
-- *2019.09 - 2022.08*, Tsinghua University, Research Specialist in Lab for Lifelong Learning.
-- *2017.09 - 2019.07*, Beijing Normal University, M.A. in Science and Technology Education.
-
-# 📚 Publications & Patents
+# 📚 Publications & Books
 - **Zha, S**., Liu, Y., Zheng, C., Xu, J., Yu, F., Gong, J., & Xu, Y. (2025). Mentigo: An intelligent agent for mentoring students in the creative problem-solving process. CHI Conference on Human Factors in Computing Systems (CHI'25), April 26–May 1, 2025, Yokohama, Japan. ACM. https://doi.org/10.1145/3706598.3713952
 - Liu, Y.*, **Zha, S.***, Zhang, Y., Wang, Y., Zhang, Y., Xin, Q., Nie, L., Zhang, C., & Xu, Y. (2025). BrickSmart: Leveraging generative AI to support children's spatial language learning in family block play. Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI'25). ACM. https://doi.org/10.1145/3706598.3714212  (🏆 BEST PAPER HONORABLE MENTION)
 - Zhang, H., **Zha, S.**, Cai, J., Wohn, D. Y., & Carroll, J. M. (2025). Generative AI in virtual reality communities: A preliminary analysis of the VRChat Discord community. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA'25), April 26–May 1, 2025, Yokohama, Japan. ACM. https://doi.org/10.1145/3706599.3720120
@@ -165,3 +155,5 @@ Jiangtao Gong, Teng Han, Siling Guo, Jiannan Li, **Siyu Zha**, Liuxin Zhang, Fen
 - Gong, J., **Zha, S.**, Dong, Z., Liu, M., Ding, Q., Zhang, Y., Zhang, L., & Wang, Q. (2020). Community and thematic visual analysis of educational product innovation research in the context of human-computer interaction. Proceedings of the 16th Conference on Harmonious Human-Computer Environment, Chongqing, China. One of the Candidates for Best Paper Award (Chinese Version)
 - **Zha,S.**,Peng, R.,&Zhang, F.(2018).The Effects on Young Students’ Computational Thinking in CS Unplugged Activities. Presented at the London international conference on education, Cambridge, UK.
 - **Zha,S.**,Chen, G., & Liu, Y. (2018). The Effects of a visual game programming environment on programming education for elementary school students. Presented at the 5th International STEM in Education Conference, Brisbane, Queensland, Australia.
+- Li, S. (Ed.). (2023). STEM and Engineering Thinking. Beijing: Educational Science Press. (Editorial board member, chapter contributor)
+- Li, F. (Ed.). (2020). Computational Thinking and Programming Design. Beijing: Tsinghua University Press. (Editorial board member, chapter contributor)
