@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Siyu Zha — a researcher in Human-Computer Interaction, passionate about Human-AI collaboration and multimodal learning. I’m a third-year Ph.D. student in Information Art & Design at Tsinghua University, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm). From 2023 to 2024, I was a visiting Ph.D. researcher at the University of Toronto’s Faculty of Information, where I worked with  Prof. [Jia Xue](https://aij.utoronto.ca/team/dr-jia-xue.html). on AI-driven approaches to education and learning design.
+Hi, I’m Siyu Zha — a researcher in Human-Computer Interaction, passionate about Human-AI collaboration and multimodal learning. I’m a third-year Ph.D. student in Information Art & Design at Tsinghua University, advised by Prof. [Yingqing Xu](https://thfl.tsinghua.edu.cn/en/yjdw/yjtd/xyq/index.htm) From 2023 to 2024, I was a visiting Ph.D. researcher at the University of Toronto’s Faculty of Information, where I worked with  Prof. [Jia Xue](https://aij.utoronto.ca/team/dr-jia-xue.html) on AI-driven approaches to education and learning design.
 
 My research investigates how emerging technologies—particularly AI—can support multimodal and collaborative learning, enhance learner engagement, and promote lifelong development through interdisciplinary, learner-centered design. I hold a Master’s degree in Science and Technology Education from Beijing Normal University, and previously worked as a Research Specialist at Tsinghua’s Lab for Lifelong Learning (2019–2022), where I contributed to research on learning sciences and educational technology.
 
